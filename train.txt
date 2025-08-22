@@ -1,0 +1,1664 @@
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1953.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1950.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\192.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1671.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1624.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\727.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\832.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\106.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\218.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\352.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\559.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1943.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1316.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1040.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\431.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1705.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1513.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1776.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1975.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\155.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1611.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1307.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1198.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1498.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1175.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\583.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1650.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1954.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1074.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1816.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1967.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1994.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\209.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1466.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\601.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\284.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2065.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\818.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1773.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2052.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1052.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1096.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1431.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1987.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1933.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\859.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1034.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\303.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1929.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\507.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\647.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\334.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1923.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1407.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\915.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\439.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2038.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\560.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\978.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\372.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\887.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1401.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\795.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\180.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1966.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\99.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\494.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\52.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\438.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\642.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1917.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1792.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\720.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1717.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\936.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1347.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\16.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1817.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1029.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1049.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\503.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\759.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\376.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\548.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\715.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\434.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1779.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1133.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\958.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\71.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1066.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\591.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\814.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2021.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1631.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\986.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1088.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\622.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\54.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\608.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1598.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1272.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\995.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\476.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\35.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1484.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\681.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1878.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1373.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\479.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\544.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1963.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1146.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\156.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\65.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2031.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1757.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\833.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1725.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\165.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1224.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\760.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\641.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1463.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1200.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1420.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1939.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1152.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\888.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\881.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\584.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\318.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1603.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\304.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\428.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1867.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1016.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\708.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\143.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\41.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\311.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\80.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1836.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1903.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2028.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1004.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\486.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\541.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\614.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\940.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\556.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1688.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1822.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1254.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1747.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\852.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\991.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\899.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1998.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\23.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1658.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\48.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1810.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\956.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1745.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\397.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1387.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\214.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1351.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\465.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\564.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\213.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1303.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1496.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\491.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1388.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1497.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1678.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\677.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1857.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\745.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\550.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\98.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\781.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\61.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1101.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1482.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1461.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\296.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1126.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\3.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1542.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1297.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\657.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\511.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1694.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\38.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\896.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\629.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\55.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\13.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\519.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\694.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\880.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\264.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1456.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1139.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\892.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1007.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\654.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1636.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\737.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\174.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1406.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1865.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\374.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1856.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1358.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1231.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\40.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1805.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1220.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1672.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\181.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\382.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\101.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\618.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1475.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1864.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1746.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1949.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\827.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\338.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1054.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1205.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\457.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\342.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\889.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\668.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1499.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1883.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\498.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\325.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\459.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1478.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1616.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\772.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1245.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\34.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1986.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\238.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\366.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1188.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2008.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1359.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1702.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1797.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\175.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\70.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\529.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1628.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\954.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1189.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2006.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1127.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1459.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\577.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1563.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\469.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\660.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1348.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1759.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1729.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\373.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1551.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\798.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\266.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\931.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\957.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1142.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\840.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\963.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\872.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1438.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1896.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\994.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\421.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1754.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1763.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1736.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\69.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\46.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\227.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1639.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1395.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1638.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1589.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\182.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1861.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1860.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\391.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\953.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\152.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1634.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\643.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1023.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1472.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\178.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\26.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\547.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1342.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\565.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1022.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1132.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1919.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\249.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\691.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1035.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\272.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1992.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\811.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2055.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\85.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\520.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\327.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1578.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1481.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\208.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\323.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1067.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1371.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1206.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1825.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1722.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\387.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1097.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1696.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1070.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\148.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1391.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1440.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\262.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1876.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\543.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\49.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\120.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\778.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\739.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\390.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\692.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1718.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1374.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\793.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1028.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\183.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\7.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\652.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1608.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1367.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\305.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\138.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\326.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1321.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\378.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2039.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1291.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\910.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\639.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2014.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1947.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\17.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\674.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1770.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1556.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1012.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\437.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\620.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\60.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\948.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\257.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1767.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\803.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1370.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\78.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\868.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\417.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1885.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\141.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\610.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\191.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1811.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1170.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\842.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\255.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\845.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\33.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\928.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\19.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\528.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\399.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\193.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\664.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\83.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\586.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\865.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2061.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\42.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1417.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1512.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1601.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\815.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1760.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\410.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\205.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\828.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\293.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1791.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1128.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\909.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1135.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\45.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1419.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2041.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1802.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\89.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\607.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1800.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\126.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1629.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1410.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1190.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1449.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\825.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\485.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\291.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\578.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\922.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2068.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1008.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\463.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1065.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1750.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2067.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1427.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1887.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\968.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1050.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\124.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\600.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\385.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1720.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1984.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1897.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\233.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\705.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1978.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\133.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1594.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1893.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1977.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1491.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2062.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1409.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\946.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1299.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1232.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1921.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\839.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1912.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1704.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1408.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\404.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\808.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1258.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1311.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1539.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\321.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\992.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\362.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1094.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1892.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1973.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1882.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1451.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1596.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\307.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1489.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\103.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1181.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\510.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\289.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\203.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1462.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1488.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2037.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1751.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1045.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\561.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\738.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1571.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1875.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1312.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\472.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\226.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1632.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\254.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1872.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1557.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\164.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\794.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\780.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1261.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\210.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1832.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1169.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\150.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1951.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\320.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1112.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1447.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\926.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1735.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1184.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1322.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\217.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1692.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1670.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\436.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\777.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1536.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\929.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1319.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1103.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1084.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\314.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1668.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\423.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\349.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1683.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\554.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2034.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\912.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\955.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1239.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1014.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1965.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1801.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1330.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\96.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1213.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1416.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1362.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\447.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1474.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1886.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1520.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\977.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1699.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1509.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1707.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\444.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1241.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\301.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1282.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\117.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1030.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1514.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1764.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1753.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1349.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\172.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1248.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1803.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\913.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1833.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1288.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1944.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\700.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\985.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\177.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\542.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\407.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\812.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\552.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1981.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\380.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\976.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1600.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\623.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1666.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1217.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1999.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1042.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1090.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\333.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2060.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\456.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\566.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\663.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2078.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\675.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\58.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1393.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1337.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\2.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1728.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\886.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\252.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\104.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1083.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1085.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1039.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1522.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\292.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\420.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1150.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\112.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\993.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\396.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\900.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1715.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1564.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\524.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\92.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\500.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1794.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\416.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1931.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\39.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1153.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1814.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\329.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\359.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1651.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\752.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1615.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1799.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1001.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2022.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\534.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\336.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1476.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\625.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1296.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1848.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\595.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1279.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1187.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\680.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\710.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1543.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\785.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\483.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1985.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\244.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\299.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1884.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\147.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1901.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\308.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1573.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\712.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1278.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1682.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\820.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1914.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1119.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1164.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\885.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\935.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\826.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1723.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1849.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1350.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\782.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\237.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2015.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\37.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1268.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1233.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\253.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1344.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1274.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\941.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\281.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2009.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\967.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\392.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1064.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\876.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\748.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1290.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1662.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\230.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\330.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1269.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1116.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1567.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1038.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\79.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1586.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\861.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\871.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\521.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1467.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\306.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\171.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1510.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\970.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1041.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\959.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\283.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1609.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1194.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\632.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1532.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\440.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1576.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1328.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\830.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\540.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2072.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\474.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\356.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\582.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1749.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\854.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1021.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\850.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1676.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1533.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1260.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1793.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1078.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1630.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\757.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\275.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1237.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\904.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\602.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2071.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\950.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1281.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\332.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1789.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1182.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\139.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\659.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1708.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\50.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\713.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\824.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\645.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1460.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1733.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1458.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1582.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\819.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\732.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1507.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1439.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1138.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\587.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\21.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\733.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1369.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\388.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\527.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1537.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\999.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2036.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\594.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1473.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\310.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\81.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1368.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1207.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\655.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\151.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\799.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\562.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1549.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\371.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1295.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\605.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\73.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\770.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\358.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\574.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1017.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\351.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\947.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1945.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1089.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\435.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\755.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1026.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1436.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1080.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\961.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1389.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1546.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\137.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\44.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1855.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1123.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1137.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1612.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\66.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\964.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1829.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\870.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1643.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\962.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\735.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\771.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1515.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1442.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1375.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1590.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\480.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1179.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\261.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\129.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\432.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\206.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\716.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1506.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\537.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\9.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2048.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1352.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\243.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2004.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\788.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1952.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\707.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\367.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\433.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\744.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\116.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\801.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2058.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\493.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\198.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\125.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1060.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\130.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\53.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1309.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\68.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\670.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1838.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1044.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2049.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\740.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1378.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1329.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1936.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\750.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\714.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\162.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1424.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\535.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\847.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1538.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\59.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1821.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1048.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2075.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1173.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\742.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\370.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1617.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\402.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1740.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1812.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1528.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\199.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1376.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1521.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1974.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\445.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1087.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1850.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\461.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2074.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\930.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\776.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\189.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1226.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\149.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1547.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1298.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\179.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1503.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\225.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1092.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1429.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\570.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\844.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1390.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\294.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\849.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\615.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1493.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1839.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\914.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1548.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1341.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\786.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\153.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1555.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1675.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\313.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\709.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1908.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1071.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\295.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1109.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1197.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1275.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1721.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\269.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1210.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1086.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\648.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1293.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\286.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\934.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2011.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1186.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1940.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1111.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1159.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\734.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\383.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1326.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\186.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1172.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\315.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1970.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1394.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1826.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1053.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1796.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1195.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2005.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\666.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1450.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\796.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1614.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\689.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1331.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1684.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1772.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1891.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\212.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\981.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1072.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\768.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\361.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1020.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\837.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1742.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\375.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\901.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\784.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1234.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1828.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\762.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\425.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\377.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\816.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\160.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1610.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\75.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1144.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\975.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\403.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1470.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1162.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1392.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\679.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\488.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1287.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\920.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1734.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1098.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1063.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1752.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1714.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1667.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1059.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1786.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1926.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1227.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\965.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1913.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1646.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\697.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1353.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\635.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1043.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1674.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1286.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\170.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1336.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\115.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1411.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\145.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1927.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\945.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1441.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1273.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\15.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\943.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\875.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\335.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\250.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\502.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\240.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\990.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\111.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1246.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2056.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1285.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\580.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\916.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1009.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1700.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1623.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1397.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\884.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\526.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1418.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1102.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1165.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1235.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\644.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1502.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1768.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\285.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1894.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\8.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\2000.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1599.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\200.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1292.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\925.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1134.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1314.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2063.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1660.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\686.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\690.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\749.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1363.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1332.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1158.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\219.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2019.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\32.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\274.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1544.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1099.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1607.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\258.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1983.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\706.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1318.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\221.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\877.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1937.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\758.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1343.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1357.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\312.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1618.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\671.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\394.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\764.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\319.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1405.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1168.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\624.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1581.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\136.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1147.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1176.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\265.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1413.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1560.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\627.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1100.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1492.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1432.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1868.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\409.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\173.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\121.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1308.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\501.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\14.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2076.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1530.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1787.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\858.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\514.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\360.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\575.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1335.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\118.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\331.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1445.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1508.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1597.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\667.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1448.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1075.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\653.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\278.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1766.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1580.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\302.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\246.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\276.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1690.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\838.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1681.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1790.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1575.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1271.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1446.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1180.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1006.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1565.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\5.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\127.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1105.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\123.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\879.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\505.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\980.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1242.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1625.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1669.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\640.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1895.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1154.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\340.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2054.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\704.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\699.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1076.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\429.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1809.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\973.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\413.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1969.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\857.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1604.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\419.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\921.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1621.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\87.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1869.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\267.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\207.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1058.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1211.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1193.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\563.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2040.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\471.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1972.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\401.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\468.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1270.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\236.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\695.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1942.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1015.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\557.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\656.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\662.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\589.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1710.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\509.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\426.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1527.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\363.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\185.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1300.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1877.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\489.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1909.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1504.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1114.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1327.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1996.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\131.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1701.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1122.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1906.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1665.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1830.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1095.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1818.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\88.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1155.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\268.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1859.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1840.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\972.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\938.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1925.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1932.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\298.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1534.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1283.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1435.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\24.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\658.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1664.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\195.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1782.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\518.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1398.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\76.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\202.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\91.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\724.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2016.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1554.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1991.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1807.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1873.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1698.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\797.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\683.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1570.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2027.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\201.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\393.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\831.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\558.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1879.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\571.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1214.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\604.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1711.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1644.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\220.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\451.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1588.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\633.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2045.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\270.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1313.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\154.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1178.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1904.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1845.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\923.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\259.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\525.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\551.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1516.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\617.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\722.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2032.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1262.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2064.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\216.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\719.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1657.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\960.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1325.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1531.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\536.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\157.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\487.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1635.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2002.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\989.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\102.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\979.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1649.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\761.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\927.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\516.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1365.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1863.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1062.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\184.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1993.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1693.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1366.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\95.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1252.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\593.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1301.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1529.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\878.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\475.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\848.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\448.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1024.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1267.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1774.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\606.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\862.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1910.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1834.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\245.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2003.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\813.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\495.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\531.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1222.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1061.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\649.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\97.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\158.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1815.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1469.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1428.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\693.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1930.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1244.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2010.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\634.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1948.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1356.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1125.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1870.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1124.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1813.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\316.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2047.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1979.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1414.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1081.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\142.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\223.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1647.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2066.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\277.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1990.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\365.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1566.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1163.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\167.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1889.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\763.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1955.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1819.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1130.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1334.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1382.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\168.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1559.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1490.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\789.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\846.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\12.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1835.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1558.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2077.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\598.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\309.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1412.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1605.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1761.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2080.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1719.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\379.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1783.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1550.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1505.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1056.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\637.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1842.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\902.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1827.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\424.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\412.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\906.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\122.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\568.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1871.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\891.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\597.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1031.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1250.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1519.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1027.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\596.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1225.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\533.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1971.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1788.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\328.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\418.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1976.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1562.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\766.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1381.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\765.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\441.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2042.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\248.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\669.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1249.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\841.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1315.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1191.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\47.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\791.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1968.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\523.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\728.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\287.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\344.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1223.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1655.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\386.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\581.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2017.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1654.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\94.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\477.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1541.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\787.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1874.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1988.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\939.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1468.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\414.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1620.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\31.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\430.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1264.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\135.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1585.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\971.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\196.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\194.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\497.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\718.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1196.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2030.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\651.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\894.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1899.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\532.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1364.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1685.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\802.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\105.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\466.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\952.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1924.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1257.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\754.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1890.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\346.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\688.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2023.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1553.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\343.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\864.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1661.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1259.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\592.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1911.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\730.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1743.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\354.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1627.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\984.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1185.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1569.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\545.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\599.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1423.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\767.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1236.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\807.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1517.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1905.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1221.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\555.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1033.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1784.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\860.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\873.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\729.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\836.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1584.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1997.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\611.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\821.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\790.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ant\260.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1837.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1280.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1148.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\176.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1051.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1593.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1486.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1317.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\717.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\863.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\62.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2007.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1068.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2013.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1340.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\933.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\229.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\756.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\822.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\455.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1277.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\20.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\682.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1323.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1535.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\932.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1637.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1372.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1077.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1956.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1959.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\axe\650.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1741.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1695.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1501.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1765.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1880.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1425.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\27.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1167.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\345.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\517.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1552.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\357.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1183.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\224.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1136.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1345.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1384.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1724.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1622.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1888.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\443.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1730.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\109.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\835.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\774.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\1.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\809.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1804.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\146.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1452.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2073.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1518.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\917.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\book\1995.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2044.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\450.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1265.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1215.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1689.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\1003.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\626.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\215.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\997.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\411.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\51.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\907.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\998.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\522.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1404.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1379.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\467.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1228.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\751.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\539.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\18.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1253.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\506.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1120.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\446.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\603.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1737.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\464.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1145.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\25.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\974.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1602.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1212.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1656.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\398.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1494.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\4.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\banana\867.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1511.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bell\1568.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\792.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\590.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1841.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\988.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\arm\427.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\119.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bed\1355.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1199.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1209.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1057.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1202.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1243.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1108.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1626.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\alarm clock\113.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\322.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1858.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\911.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\apple\353.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\binoculars\1795.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1916.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\backpack\736.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\982.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bathtub\1140.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\angel\228.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\942.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1415.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1430.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\barn\882.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2025.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\616.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\baseball bat\996.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1748.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1703.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1755.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\basket\1113.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bench\1652.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1256.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\armchair\508.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2024.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1918.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\blimp\1851.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\airplane\6.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2046.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\628.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bee\1383.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1697.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bookshelf\2018.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bicycle\1739.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\bear (animal)\1230.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\ashtray\567.png
+C:\Users\diego\Desktop\MUVA\1º\1ºCuatri\ReconocimientoPatrones\P2_dl\imagenes\beer-mug\1487.png
